@@ -32,4 +32,4 @@
 
 24.03.30
 - https://github.com/line/armeria/issues/5236
-- 
+- https://github.com/line/armeria/issues/5150
